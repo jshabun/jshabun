@@ -11,7 +11,7 @@ I'm a Computer Engineering Undergraduate at the University of California, Rivers
 - ⚡ Fun fact **You can always find me at a local car meet**
 
 #### Listen with Me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315c5jzxopiw3us6wxm7djblphd4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315c5jzxopiw3us6wxm7djblphd4&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315c5jzxopiw3us6wxm7djblphd4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315c5jzxopiw3us6wxm7djblphd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
