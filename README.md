@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A Computer Engineering Undergraduate at the University of California, Riverside.</h3>
+<h3 align="center">Recent Computer Engineering graduate from the University of California, Riverside.</h3>
 
 ### About Me
-I'm a Computer Engineering Undergraduate at the University of California, Riverside. I'm looking to enter the field of Software Engineering once I graduate. I love programming but in my free time, I love working on DIY projects that use both my programming and Electrical Engineering skills. In my free time you can find me either playing Basketball 🏀 and Soccer ⚽ or watching a good TV Show at home. 
+I'm a recent Computer Engineering graduate from the University of California, Riverside. I'm looking to enter the field of Software Engineering. I love programming but in my free time, I love working on DIY projects that use both my programming and Electrical Engineering skills. In my free time you can find me either playing Basketball 🏀 and Soccer ⚽ or watching a good TV Show at home. 
 
 - 🔭 I’m currently working on [Focus Assist](github.com/jshabun/focusassist)
 
@@ -10,8 +10,6 @@ I'm a Computer Engineering Undergraduate at the University of California, Rivers
 
 - ⚡ Fun fact **You can always find me at a local car meet**
 
-#### Listen with Me
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315c5jzxopiw3us6wxm7djblphd4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315c5jzxopiw3us6wxm7djblphd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
