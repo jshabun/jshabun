@@ -25,6 +25,8 @@ I'm a recent Computer Engineering graduate from the University of California, Ri
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jshabun&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="jshabun" /></p>
 
+[![An image of @jshabun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jshabun)](https://holopin.io/@jshabun)
+
 
 <!--
 **jshabun/jshabun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
